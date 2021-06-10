@@ -1,7 +1,16 @@
 /**
  * Stack implementation using linked list in C language.
  */
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>     // For INT_MIN
